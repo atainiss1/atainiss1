@@ -1,16 +1,24 @@
-## Hi there 👋
+# 你好，我是 Steven.Xia 👋
 
-<!--
-**atainiss1/atainiss1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+这里记录我的个人项目、开发进展和一些想法。
 
-Here are some ideas to get you started:
+## 🔧 我的项目
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[xiaoda-rk3588](https://github.com/atainiss1/xiaoda-rk3588)
+是我的第一个个人项目。
+
+后续计划将它移植到 Khadas 的传统开发板上，
+我会在这里持续更新开发和适配进展。
+
+## 📝 开发随记
+
+### 2026-11-12
+
+保持更新，感谢观众姥爷关注
+
+### 2026-11-12｜开始记录
+
+今天开始在 GitHub 主页记录我的项目进展。
+
+目前正在开发 xiaoda-rk3588，
+后续计划逐步推进 Khadas 开发板的移植工作。

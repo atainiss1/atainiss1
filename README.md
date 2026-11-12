@@ -7,8 +7,9 @@
 [xiaoda-rk3588](https://github.com/atainiss1/xiaoda-rk3588)
 是我的第一个个人项目。
 
-后续计划将它移植到 Khadas 的传统开发板上，
+后续计划将它移植到 Khadas 的单板计算机SBC上，
 我会在这里持续更新开发和适配进展。
+也欢迎大家关注khadas公司及系列产品，这里有linux开源知识~
 
 ## 📝 开发随记
 
